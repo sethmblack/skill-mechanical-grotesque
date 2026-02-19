@@ -3,8 +3,8 @@ name: mechanical-grotesque
 description: Describe machines and technology as biological, visceral, and repulsive. Make ducts breathe, pipes pulse, wires grow like hair. Transform clean technology into organic decay.
 license: MIT
 metadata:
+  version: 1.0.4470
   author: sethmblack
-  version: 1.0.4469
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
